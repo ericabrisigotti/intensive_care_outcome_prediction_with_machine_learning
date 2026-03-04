@@ -1,4 +1,4 @@
-The following material is part of Erica Brisigotti's project, titled Intensive Care outcome prediction with Machine Learning.
+The following material is part of Erica Brisigotti's Master thesis project, titled Intensive Care outcome prediction with Machine Learning.
 
 Weaning from mechanical ventilation represents a major clinical challenge in the Intensive
 Care Unit (ICU), where both premature and delayed extubation significantly increase
