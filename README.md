@@ -27,3 +27,6 @@ These findings highlight the importance of unsupervised feature extraction for c
 nonlinear physiological dynamics. By relying on short pre-SBT physiological windows
 (often as brief as 15 minutes) making directly at the clinical point of extubation, offering
 a lightweight, readily deployable tool for ICU weaning assessment.
+
+The dataset will not be made available as it is contains sensitive information and it is property of the Teaching Hospital of the University of Padova.
+The up-to-date code will be made available after the paper regarding this project will be published.
